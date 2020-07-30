@@ -24,3 +24,7 @@ Run the jupyter notebook to check out the analysis and results of this project
 ## Authors
 
 * **Ooi Siang Tan** - *Initial work* - [ooisiang](https://github.com/ooisiang)
+
+## External Links
+
+Here is the [medium blog post](https://medium.com/@ooisiangtan/who-tends-to-spend-after-receiving-a-starbucks-offer-e8e26453dff4) that presents the results of this project.
